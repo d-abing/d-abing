@@ -1,5 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20DabinHub&fontSize=60&fontColor=fff&fontAlign=50)
+ 
+# 📬Contacts
+[![Dev Blog Badge](http://img.shields.io/badge/Blog-black?style=for-the-badge&logo=tistory&link=https://devdharu.tistory.com/)](https://devdharu.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ynlio117@gmail.com)](mailto:ynlio117@gmail.com)
 
 
 # 💪Skills
@@ -17,8 +20,5 @@
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
- 
-# 📬Contacts
-[![Dev Blog Badge](http://img.shields.io/badge/Blog-black?style=for-the-badge&logo=tistory&link=https://devdharu.tistory.com/)](https://devdharu.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ynlio117@gmail.com)](mailto:ynlio117@gmail.com)
 
 
