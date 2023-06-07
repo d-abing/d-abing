@@ -27,6 +27,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd-abing&count_bg=%23F0563C&title_bg=%23B6AEAE&icon=github.svg&icon_color=%23C6C6C6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![D-abing's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-abing&show_icons=true&theme=swift) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dab2ny)](https://solved.ac/dab2ny/)
-![](./profile-3d-contrib/profile-season-animate.svg)
 
 
