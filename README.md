@@ -6,7 +6,7 @@
 안녕하세요, 생각을 실현으로 바꾸는 안드로이드 개발자 최다빈입니다 🙋‍
 
 # 📬Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ynlio117@gmail.com)](mailto:ynlio117@gmail.com) [![Dev Blog Badge](http://img.shields.io/badge/Blog-777BB4?style=for-the-badge&logo=notion&link=https://dabing.oopy.io/)](https://dabing.oopy.io/) [![Dev Blog Badge](http://img.shields.io/badge/Blog-black?style=for-the-badge&logo=tistory&link=https://devdharu.tistory.com/)](https://devdharu.tistory.com/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ynlio117@gmail.com)](mailto:ynlio117@gmail.com) [![Dev Blog Badge](http://img.shields.io/badge/Blog-777BB4?style=for-the-badge&logo=notion&link=https://dabing.oopy.io/)](https://dabing.oopy.io/) 
 
 
 # 💪Skills
