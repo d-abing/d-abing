@@ -4,7 +4,7 @@
 안녕하세요, 생각을 실현으로 바꾸는 개발자 최다빈입니다 🙋‍
 
 # 👩‍💻Portfolio
-[![Portfolio](https://img.shields.io/badge/portfolio-ddd.svg?&style=for-the-badge&logo=notion&logoColor=black&link=https://d-abing.notion.site/7e1602b90b5a4e848a535f5bb9f4fbb2?pvs=4/)](https://d-abing.notion.site/7e1602b90b5a4e848a535f5bb9f4fbb2?pvs=4) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ynlio117@gmail.com)](mailto:ynlio117@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/portfolio-ddd.svg?&style=for-the-badge&logo=notion&logoColor=black&link=https://d-abing.notion.site/7e1602b90b5a4e848a535f5bb9f4fbb2?pvs=4/)](https://d-abing.notion.site/7e1602b90b5a4e848a535f5bb9f4fbb2?pvs=4) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ynlio117@gmail.com)](mailto:ynlio117@gmail.com) ![Blog](https://img.shields.io/badge/Blog-black.svg?&style=for-the-badge&logo=tistory&logoColor=blac&link=https://devdharu.tistory.com/)
 
 # 📊Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-abing&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-abing&layout=compact) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dab2ny)](https://solved.ac/dab2ny/)
