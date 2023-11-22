@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Dabin&fontSize=100&fontColor=fff&fontAlign=50&FontAlignY=00&desc=Thank%20you%20for%20visiting👋&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dabin&fontSize=100&fontColor=fff&fontAlign=50&FontAlignY=00&desc=Thank%20you%20for%20visiting👋&descAlign=80)
 
 안녕하세요, 생각을 실현으로 바꾸는 개발자 최다빈입니다 🙋‍
 
