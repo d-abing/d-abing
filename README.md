@@ -32,5 +32,4 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>
 <a href="https://github.com/d-abing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-abing&layout=compact&theme=buefy&hide_border=true" /></a> 
-<a href="https://github.com/d-abing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=d-abing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="d-abing's github stats" /></a>
 </div>
