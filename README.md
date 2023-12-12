@@ -29,5 +29,4 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dab2ny)](https://solved.ac/dab2ny/)
-
 </div>
