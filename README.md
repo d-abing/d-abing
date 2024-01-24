@@ -3,6 +3,8 @@
 안녕하세요, 생각을 실현으로 바꾸는 개발자 최다빈입니다 🙋‍♀️ <br>
 모바일 앱 개발을 하고 있어요 😊
 
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=Notion&logoColor=white">
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <div style="margin: 0 auto; text-align: center;" align= "center"> 
 
