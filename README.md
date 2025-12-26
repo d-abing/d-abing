@@ -11,7 +11,7 @@
           <h4>쓱싹메모</h4>
         </a>
         <p><sub>2023. 7. 10.<br>쓱싹 정리하는 메모장</sub></p>
-        <p><a href="https://play.google.com/store/apps/details?id=com.aube.ssgmemo">Google Play 바로가기 →</a></p>
+        <p>서비스 종료</p>
       </td>
       <td align="center" width="33%">
         <a href="https://play.google.com/store/apps/details?id=com.aube.mypalette">
