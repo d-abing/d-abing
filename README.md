@@ -6,10 +6,8 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://play.google.com/store/apps/details?id=com.aube.ssgmemo">
           <img src="https://github.com/user-attachments/assets/d0199d50-2868-4fb2-928f-045051eca1e8" alt="쓱싹메모" width="220"/>
           <h4>쓱싹메모</h4>
-        </a>
         <p><sub>2023. 7. 10.<br>쓱싹 정리하는 메모장</sub></p>
         <p>서비스 종료</p>
       </td>
@@ -46,6 +44,12 @@
         </a>
         <p><sub>2025. 9. 25.<br>미니멀라이프를 위한 정리 기록</sub></p>
         <p><a href="https://play.google.com/store/apps/details?id=com.aube.minimallog">Google Play 바로가기 →</a></p>
+      </td>
+      <td align="center" width="33%">
+          <img src="https://github.com/user-attachments/assets/a51e42d8-652a-4b27-9faf-2eb50aca2253" alt="미니챌" width="220"/>
+          <h4>미니챌</h4>
+        <p><sub>2026. 3. 예정<br>실천 가능한 가장 작은 도전</sub></p>
+        <p>배포 예정</p>
       </td>
     </tr>
   </table>
