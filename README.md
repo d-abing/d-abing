@@ -48,7 +48,7 @@
       <td align="center" width="33%">
           <img src="https://github.com/user-attachments/assets/a51e42d8-652a-4b27-9faf-2eb50aca2253" alt="미니챌" width="220"/>
           <h4>미니챌</h4>
-        <p><sub>2026. 3. 예정<br>실천 가능한 가장 작은 도전</sub></p>
+        <p><sub>2026. 4. 예정<br>실천 가능한 가장 작은 도전</sub></p>
         <p>배포 예정</p>
       </td>
     </tr>
