@@ -39,7 +39,7 @@
         <p><a href="https://play.google.com/store/apps/details?id=com.aube.minimallog">Google Play 바로가기 →</a></p>
       </td>
       <td align="center" width="33%">
-          <img src="https://github.com/user-attachments/assets/a51e42d8-652a-4b27-9faf-2eb50aca2253" alt="미니챌" width="220"/>
+          <img src="https://cdn.jsdelivr.net/gh/d-abing/d-abing@main/images/6-1.png" alt="미니챌" width="220"/>
           <h4>미니챌</h4>
         <p><sub>2026. 4. 6.<br>실천 가능한 가장 작은 도전</sub></p>
         <p><a href="https://play.google.com/store/apps/details?id=com.aube.minichall">Google Play 바로가기 →</a></p>
@@ -47,7 +47,7 @@
     </tr>
       <tr>
       <td align="center" width="33%">
-          <img src="https://github.com/user-attachments/assets/73a59477-2257-4a50-8f38-54d255b82d49" alt="PassHint" width="220"/>
+          <img src="https://cdn.jsdelivr.net/gh/d-abing/d-abing@main/images/7-1.png" alt="PassHint" width="220"/>
           <h4>PassHint</h4>
         <p><sub>2025. 7. 18.<br>비밀번호 힌트 저장 노트</sub></p>
         <p><a href="https://play.google.com/store/apps/details?id=com.aube.passhint">Google Play 바로가기 →</a></p>
