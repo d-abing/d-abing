@@ -49,7 +49,7 @@
       <td align="center" width="33%">
           <img src="https://cdn.jsdelivr.net/gh/d-abing/d-abing@main/images/7-1.png" alt="PassHint" width="220"/>
           <h4>PassHint</h4>
-        <p><sub>2025. 7. 18.<br>비밀번호 힌트 저장 노트</sub></p>
+        <p><sub>2026. 7. 18.<br>비밀번호 힌트 저장 노트</sub></p>
         <p><a href="https://play.google.com/store/apps/details?id=com.aube.passhint">Google Play 바로가기 →</a></p>
       </td>
     </tr>
