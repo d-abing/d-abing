@@ -2,6 +2,7 @@
   
   안녕하세요, 생각을 실현으로 바꾸는 개발자 최다빈입니다 🙋‍♀️ <br>
   모바일 앱 개발을 하고 있어요 😊
+  앱 100개 만들기를 목표로 달립니다. 🏃🏻‍♀️
 
   <table>
     <tr>
@@ -42,6 +43,14 @@
           <h4>미니챌</h4>
         <p><sub>2026. 4. 6.<br>실천 가능한 가장 작은 도전</sub></p>
         <p><a href="https://play.google.com/store/apps/details?id=com.aube.minichall">Google Play 바로가기 →</a></p>
+      </td>
+    </tr>
+      <tr>
+      <td align="center" width="33%">
+          <img src="https://github.com/user-attachments/assets/73a59477-2257-4a50-8f38-54d255b82d49" alt="PassHint" width="220"/>
+          <h4>PassHint</h4>
+        <p><sub>2025. 7. 18.<br>비밀번호 힌트 저장 노트</sub></p>
+        <p><a href="https://play.google.com/store/apps/details?id=com.aube.passhint">Google Play 바로가기 →</a></p>
       </td>
     </tr>
   </table>
